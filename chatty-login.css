@@ -1,0 +1,44 @@
+#logo{
+    width: 30px;
+    height: 30px;
+}
+#title{
+    font-size: 30px;
+    margin-top: 50px;
+    font-family:"Yeon Sung";
+    color:orangered;
+}
+#login_div{
+    background-color:khaki;
+    border-radius: 20px;
+    border-style: ridge;
+    margin-top: 150px;
+    margin-left: 175px;
+    margin-right: 175px;
+}
+body{
+background-image: url(school_background.jpg);
+}
+#title2{
+    font-size: 20px;
+}
+#username_input{
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    border-style:double;
+    border-width: 5px;
+    text-align: center;
+}
+#submit{
+    width: 150px;
+    height: 40px;
+    font-size: 23px;
+   
+    border-width: 0px;
+    border-radius: 3px;
+    color: khaki;
+}
+#title_3{
+    font-size: 25px;
+}

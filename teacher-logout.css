@@ -1,0 +1,22 @@
+
+#logout-div{
+    background-color: lightblue;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: maroon;
+    margin-top: 200px;
+}
+#logout_yes{
+    width: 150px;
+    height: 30px;
+    background-color:orangered;
+    font-size: 25px;
+    color: midnightblue;
+}
+#logout_no{
+    width: 150px;
+    height: 30px;
+    background-color: lightgreen;
+    color:midnightblue;
+    font-size: 25px;
+}

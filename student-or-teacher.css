@@ -1,0 +1,36 @@
+#teacher_or_student{
+border-style: ridge;
+border-color: coral;
+background-color: lightblue;
+margin-top: 200px;
+margin-left: 175px;
+margin-right: 175px;
+border-width: 10px;
+}
+#title{
+    font-size: 25px;
+    font-family: 'Yeon Sung';
+}
+#student_button{
+    background-color:mediumspringgreen;
+    color: midnightblue;
+    border-radius: 20px;
+    font-size: 20px;
+}
+body{
+    background-image: url(school_background.jpg);
+}
+#teacher_password{
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    border-style:ridge;
+    border-width: 5px;
+    text-align: center;
+}
+#enter{
+    width: 150px;
+    height: 30px;
+    background-color: pink;
+    font-size: 23px;
+}

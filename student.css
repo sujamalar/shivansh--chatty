@@ -1,0 +1,27 @@
+body{
+    text-align: right;
+    background-image: url("teacher-and-student-background.jpg");
+}
+#logo{
+    width: 40px;
+    height: 40px;
+}
+#title{
+    color: black;
+
+}
+#room_title{
+    background-color: lightgreen;
+    border-radius: 20px;
+    border-style: ridge;
+}
+#user_name{
+    color: black;
+    background-color: mistyrose;
+}
+#output{
+    background-color: lightsteelblue;
+    color: mediumblue;
+    font-size: 20px;
+    border-radius: 20px;
+}
